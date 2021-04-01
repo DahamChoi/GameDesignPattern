@@ -144,6 +144,14 @@
   <ItemGroup>
     <None Include="Command.md" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Actor.h" />
+    <ClInclude Include="Command.h" />
+    <ClInclude Include="Enemy.h" />
+    <ClInclude Include="InputHandler.h" />
+    <ClInclude Include="InputMemento.h" />
+    <ClInclude Include="Player.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

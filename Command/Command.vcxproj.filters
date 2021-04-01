@@ -24,4 +24,24 @@
       <Filter>리소스 파일</Filter>
     </None>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Actor.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="InputHandler.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Command.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="InputMemento.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
