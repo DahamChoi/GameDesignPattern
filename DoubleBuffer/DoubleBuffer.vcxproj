@@ -141,6 +141,10 @@
   <ItemGroup>
     <ClCompile Include="DoubleBuffer.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Comedian.h" />
+    <ClInclude Include="Stage.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
