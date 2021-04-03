@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ServiceMediator", "ServiceM
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DirtyFlag", "DirtyFlag\DirtyFlag.vcxproj", "{021BD9BC-CB65-4933-9737-11173A465C6C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ObjectPool", "ObjectPool\ObjectPool.vcxproj", "{89B1D48C-2224-4312-8BC7-472EC9B6947B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{021BD9BC-CB65-4933-9737-11173A465C6C}.Release|x64.Build.0 = Release|x64
 		{021BD9BC-CB65-4933-9737-11173A465C6C}.Release|x86.ActiveCfg = Release|Win32
 		{021BD9BC-CB65-4933-9737-11173A465C6C}.Release|x86.Build.0 = Release|Win32
+		{89B1D48C-2224-4312-8BC7-472EC9B6947B}.Debug|x64.ActiveCfg = Debug|x64
+		{89B1D48C-2224-4312-8BC7-472EC9B6947B}.Debug|x64.Build.0 = Debug|x64
+		{89B1D48C-2224-4312-8BC7-472EC9B6947B}.Debug|x86.ActiveCfg = Debug|Win32
+		{89B1D48C-2224-4312-8BC7-472EC9B6947B}.Debug|x86.Build.0 = Debug|Win32
+		{89B1D48C-2224-4312-8BC7-472EC9B6947B}.Release|x64.ActiveCfg = Release|x64
+		{89B1D48C-2224-4312-8BC7-472EC9B6947B}.Release|x64.Build.0 = Release|x64
+		{89B1D48C-2224-4312-8BC7-472EC9B6947B}.Release|x86.ActiveCfg = Release|Win32
+		{89B1D48C-2224-4312-8BC7-472EC9B6947B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

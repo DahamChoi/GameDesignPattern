@@ -14,5 +14,5 @@ int main()
     watchTower->AddChild(pirate);
     pirate->AddChild(parrot);
 
-    root->Render(BaseTransform);
+    root->Render(BaseTransform, false);
 }
